@@ -62,4 +62,4 @@ Si prefieres ejecutar el asistente directamente sin abrir el chat de la IA, disp
 ## 👨‍💻 Autor
 **Ing. Javier Alburges**  
 CEO de GearSoftCA  
-Web: [gearsoftca.vercel.app](https://gearsoftca.vercel.app/)
+Web: [gearsoftca.com](https://gearsoftca.com/)
